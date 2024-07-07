@@ -1,0 +1,185 @@
+{
+    "name": "Deepika Senthil Kumar",
+    "contact": {
+      "email": "ds2589@srmist.edu.in",
+      "phone": "9487168995",
+      "location": "Chennai, India"
+    },
+    "summary": "I am Deepika Senthil Kumar, currently pursuing my under-graduate in SRM Institute of Science and Technology. I am training and improving myself with various technical skills as well as soft skills. I am a good learner and I show a great interest in learning new things. I am looking forward to coming out of my comfort zone and experiencing new things and learning different ideas of the world.",
+    "education": [
+      {
+        "institution": "SRM Institute of Science and Technology",
+        "date": "Sep 2024 - Present",
+        "degree": "B.Tech",
+        "field_of_study": "Computer Science",
+        "location": "Chennai",
+        "grade": "9.71"
+      },
+      {
+        "institution": "Indian School Al Wadi Al Kabir",
+        "date": "Mar 2020 - Jul 2021",
+        "degree": "12th",
+        "field_of_study": "CBSE",
+        "location": "Oman",
+        "grade": "470"
+      },
+      {
+        "institution": "Indian School Al Wadi Al Kabir",
+        "date": "Mar 2018 - Mar 2019",
+        "degree": "10th",
+        "field_of_study": "CBSE",
+        "location": "Oman",
+        "grade": "446"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Object Recognition System",
+        "date": "Apr 2024 - Present",
+        "institution": "SRM University",
+        "technologies": ["AI", "Deep Learning", "Resnet", "CNN"],
+        "description": "This project is regarding detecting objects in real time videos. I am trying to train the model further by detecting sentiments in faces. I am currently working with this project."
+      },
+      {
+        "title": "Sentiment Analysis",
+        "date": "Jun 2024",
+        "institution": "SRM University",
+        "technologies": ["Machine Learning", "Python", "Pandas"],
+        "description": "This project is regarding Movie review sentiment analysis. I have first cleaned the dataset by removing the stopwords and then trained the model using Logistic Regression. The model has acquired an accuracy of 97%."
+      },
+      {
+        "title": "Library Database Management System",
+        "date": "Mar 2021 - Jun 2021",
+        "institution": "Indian School Al Wadi Al Kabir",
+        "technologies": ["Python", "MySQL"],
+        "description": "This is a small project which maintains the library databases. It keeps record of the customers who issued books and the total amount of books available according to how many books were issued. The returning book facility is also available."
+      },
+      {
+        "title": "Metro Ticket Booking System",
+        "date": "Jan 2023 - Mar 2023",
+        "institution": "SRM University",
+        "technologies": ["Python", "MySQL", "HTML", "CSS"],
+        "description": "Represents a website used to book metro train tickets online with ease. The website books tickets based on the information given by the user and accordingly gives the ticket in the form of a QR code."
+      },
+      {
+        "title": "DeepFake Detection",
+        "date": "Mar 2024 - Present",
+        "institution": "SRM University",
+        "technologies": ["AI", "CNN", "Python"],
+        "description": "This project is regarding detecting DeepFake contents. I am currently working on this project."
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Data Science Industrial Training Program",
+        "date": "Jan 2024 - Present",
+        "institution": "DevTown",
+        "description": "I had applied for a self-paced Data Science Industrial Program which includes Machine Learning and Deep Learning concepts.",
+        "link": "Link"
+      },
+      {
+        "title": "Data Analytics and Visualization Job Simulation",
+        "date": "Mar 2024 - Present",
+        "institution": "DevTown",
+        "description": "In continuation of my course in DevTown, I had an opportunity to apply for MNC Job Simulation. I had chosen Accenture and the tasks given were: Data Cleaning and Modelling, Data Visualization and Storytelling, Presenting to the client.",
+        "link": "Link"
+      },
+      {
+        "title": "Python for Data Science",
+        "date": "Feb 2024 - Present",
+        "institution": "NPTEL",
+        "description": "I had applied for NPTEL course on Python for Data Science and I acquired a score of 70% in the test.",
+        "link": "Link"
+      },
+      {
+        "title": "Django4 and Python Full-Stack Developer Masterclass",
+        "date": "Mar 2024 - Present",
+        "institution": "Udemy",
+        "description": "This Udemy course includes a full stack development program using Django framework in Python along with HTML and CSS concepts.",
+        "link": "Link"
+      },
+      {
+        "title": "Artificial Intelligence",
+        "date": "Mar 2023 - Present",
+        "institution": "Teachnook",
+        "description": "I had applied for a self-paced course in Teachnook regarding Artificial Intelligence. I had completed one minor and one major project.",
+        "link": "Link"
+      },
+      {
+        "title": "Artificial Intelligence with Machine Learning, Deep Learning",
+        "date": "Dec 2023 - Present",
+        "institution": "Udemy",
+        "description": "This Udemy course includes Machine Learning and Deep Learning concepts using Python in Jupyter notebook.",
+        "link": "Link"
+      }
+    ],
+    "volunteering": [
+      {
+        "title": "Volunteer",
+        "date": "Sep 2022",
+        "institution": "NSS",
+        "description": "The university had conducted a Free Dental Camp for students in regards with the NSS organization. I have volunteered for the same.",
+        "link": "Link",
+        "field": "Healthcare"
+      }
+    ],
+    "conferences_and_workshops": [
+      {
+        "title": "Progress in Mathematics towards Industrial Applications",
+        "date": "Oct 2023",
+        "institution": "SRM Institute of Science and Technology",
+        "location": "SRM University, Ramapuram",
+        "description": "An International Conference about Progress in Mathematics towards Industrial Applications.",
+        "link": "Link"
+      },
+      {
+        "title": "AI Tools Workshop",
+        "date": "Mar 2024",
+        "institution": "be10X",
+        "location": "Online",
+        "description": "This workshop taught me the various AI Tools available which can help us to perform tasks in a quick manner.",
+        "link": "Link"
+      },
+      {
+        "title": "Monocle'22",
+        "date": "May 2022",
+        "institution": "Cam-o-Genics",
+        "location": "SRM University, Ramapuram",
+        "description": "Cam-o-Genics is a photography and film society club in SRM University and I have attended a 2 day workshop called Astro Photography and Script to Screen in Monocle'22.",
+        "link": "Link"
+      }
+    ],
+    "skills": [
+      "Artificial Intelligence",
+      "Django",
+      "Full Stack Development",
+      "Python",
+      "Data Science",
+      "Pandas",
+      "Machine Learning",
+      "C++",
+      "Java",
+      "Data Structures",
+      "PowerBI",
+      "Database Management Systems",
+      "MySQL",
+      "Neural Networks",
+      "HTML",
+      "CSS"
+    ],
+    "languages": [
+      {
+        "language": "Tamil",
+        "proficiency": "Native Proficiency"
+      },
+      {
+        "language": "English",
+        "proficiency": "Professional Working Proficiency"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "Elementary Proficiency"
+      }
+    ]
+  }
+  
